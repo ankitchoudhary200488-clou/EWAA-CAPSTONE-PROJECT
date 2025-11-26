@@ -4,7 +4,7 @@
 [![Python](https://img.shields.io/badge/Python-3.11-blue.svg)](https://www.python.org/)  
 [![FastAPI](https://img.shields.io/badge/FastAPI-v0.100-blue.svg)](https://fastapi.tiangolo.com/)  
 [![React](https://img.shields.io/badge/React-v18.2.0-blue.svg)](https://reactjs.org/)  
-[![OpenAI](https://img.shields.io/badge/OpenAI-GPT%2B-yellow.svg)](https://openai.com/)
+
 
 ---
 
